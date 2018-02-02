@@ -1,10 +1,10 @@
 # Sumário
 
-- [Dados pessoais](#angelo-rodrigo-ribeiro-da-silva)
+- [Dados pessoais](#dados-pessoais)
 - [Quem sou eu?](#quem-sou-eu)
 - [Skills](#skills)
-    - [Back end](#back-end)
-    - [Front end](#front-end)
+    - [Back end](#skills-back-end)
+    - [Front end](#skills-front-end)
 - [Onde estudei](#onde-estudei)
 - [Por onde passei](#onde-passei)
     - [Doting](#onde-passei-doting)
@@ -33,7 +33,7 @@ Eu trabalho como desenvolvedor a 2 anos, sempre trabalhei com desenvolvimento fo
 <a name="skills"></a>
 ## Skills
 
-<a name="skills_back_end"></a>
+<a name="skills-back-end"></a>
 ### Back end
 
 Conheci o PHP a 2 anos, no meu primeiro estágio de desenvolvimento web, onde trabalhei cuidando de um cms próprio, **WordPress** e **OpenCart** solucionando pequenos bugs e imprevistos.
