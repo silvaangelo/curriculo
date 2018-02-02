@@ -32,19 +32,13 @@ Estou cursando o 6º e último semestre de análise e desenvolvimento de sistema
 
 ## Por onde passei
 
-#### Alberflex Indústria de Moveis Ltda.
-
-Junho de 2014 - Setembro de 2015
-
-Estagiei pela Guarda Mirim de Sorocaba, atuando na área de publicidade e propaganda como auxiliar administrativo, então fui efetivado e passei a ser o principal responsável pelo desenvolvimento de artes gráficas e catálogos utilizando ferramentas de design como **Corel Draw**, **Illustrator** e **Photoshop**.
-
-#### Innsite agência web
+### Innsite agência web
 
 Agosto de 2016 - Maio de 2017
 
 Como estagiário, lidei com desenvolvimento web fullstack, trabalhando no front end com **Bootstrap**, **jQuery** e desenvolvimento back end com plataformas como **WordPress**, **OpenCart** e próprio cms, também desenvolvi projetos de curta duração atuando como back end PHP.
 
-#### Agência Doting
+### Agência Doting
 
 Julho de 2017 - Janeiro de 2018
 
@@ -52,6 +46,11 @@ Eu trabalhei como desenvolvedor fullstack na Doting, porém com foco em desenvol
 
 Eu tive experiência com **Nginx**, **Linux**, **SSH** e ferramentas de deploy como **Jenkins**, **Git** e **Shell Scripts**.
 
+### Alberflex Indústria de Moveis Ltda.
+
+Junho de 2014 - Setembro de 2015
+
+Estagiei pela Guarda Mirim de Sorocaba, atuando na área de publicidade e propaganda como auxiliar administrativo, então fui efetivado e passei a ser o principal responsável pelo desenvolvimento de artes gráficas e catálogos utilizando ferramentas de design como **Corel Draw**, **Illustrator** e **Photoshop**.
 
 ## O que eu fiz
 
