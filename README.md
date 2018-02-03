@@ -1,6 +1,6 @@
 # Sumário
 
-- [Dados pessoais](#dados-pessoais)
+- [Dados Pessoais](#dados-pessoais)
 - [Quem sou eu?](#quem-sou-eu)
 - [Skills](#skills)
     - [Back end](#skills-back-end)
@@ -13,8 +13,7 @@
 - [O que eu fiz?](#oque-fiz)
     - [A comunidade](#oque-fiz-comunidade)
     - [Trabalhos](#oque-fiz-trabalhos)
-        - [Minicurso nodeJS](#oque-fiz-node-chat)
-    - [Grupos de estudos](#oque-fiz-grupos-estudos)
+        - [Minicurso nodeJS](#oque-fiz-trabalhos-chat-node)
 
 <a name="dados-pessoais"></a>
 ## Angelo Rodrigo Ribeiro da Silva
@@ -98,9 +97,7 @@ Durante meu tempo como desenvolvedor, procurei sempre aprender mais e ajudar pes
 
 **VI Semana Nacional de Ciêcia e Tecnologia do IFSP**
 
-Ministrei um minicurso, utilizando stack jQuery, Bootstrap, NodeJS e Socket.io, onde o objetivo foi a construção de um webchat.
+Ministrei um minicurso, utilizando stack jQuery, Bootstrap, NodeJS e Socket.io, onde o objetivo foi a construção de um webchat:
 
-<a name="oque-fiz-grupos-estudos"></a>
-### Grupos de estudos
+https://bitbucket.org/angelozo/minicurso-nodejs-chat
 
-Durante 2 meses dentro da faculdade, organizei juntamente com outros alunos, pequenos dias de estudo, onde durante alguns minutos alguém falava sobre alguma tecnologia.
