@@ -30,7 +30,7 @@ angelorodriigo.rs@gmail.com
 <a name="quem-sou-eu"></a>
 ## Quem sou eu?
 
-Eu trabalho como desenvolvedor a 2 anos, sempre trabalhei com desenvolvimento focado na área web, sendo front end, passei por algumas empresas porém encontrei mais conforto estudando arquitetura de software, padrões de projeto e desenvolvimento back end, onde hoje invisto maior parte dos meus esforços, escrever código que rode da melhor forma possível, pensando sempre nas pessoas ao invés do interpretador.
+Eu trabalho como desenvolvedor a 2 anos, sempre trabalhei com desenvolvimento focado na área web, sendo front end, passei por algumas empresas porém encontrei mais conforto estudando arquitetura de software, padrões de projeto e desenvolvimento back end, onde hoje invisto maior parte dos meus esforços.
 
 <a name="skills"></a>
 ## Skills
