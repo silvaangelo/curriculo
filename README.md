@@ -69,13 +69,7 @@ Estou cursando o 6º e último semestre de análise e desenvolvimento de sistema
 
 Março de 2018 - Atual
 
-Durante meu tempo na Eduzz, eu trabalhei com tecnologias de microserviços como RabbitMQ e desenvolvimento de RESTFUL API'S.
-
-Eu trabalhei como desenvolvedor Júnior na equipe de microserviços, trabalhando em um projeto de refatoração e migração de sistema legado.
-
-Participei da arquitetura e desenvolvimento de um sistema de produtores e workers, buscando a comunicação entre diferentes aplicações. Desenvolvi também pequenos pacotes que eram utilizados por diferentes aplicações.
-
-Desenvolvi também pequenos serviços e automatizações utilizando nodeJS.
+Trabalho na eduzz, junto a equipe de microserviços, tendo em vista desenvolver soluções que darão suporte a outras equipes.
 
 <a name="onde-passei-doting"></a>
 ### Agência Doting
@@ -83,9 +77,7 @@ Desenvolvi também pequenos serviços e automatizações utilizando nodeJS.
 
 Julho de 2017 - Janeiro de 2018
 
-Eu trabalhei como desenvolvedor fullstack na Doting, porém com foco em desenvolvimento back end com **PHP**, eu lidei com Javascript Vanilla, **jQuery** e frameworks **PHP** como **Zend Framework**, plataforma Magento, Laravel e Slim Framework. Durante meu tempo de trabalho, eu aprendi muito sobre arquitetura de software e boas práticas de programação, encontrando ali os ideais de orientação a objetos.
-
-Eu tive experiência com **Nginx**, **Linux**, **SSH** e ferramentas de deploy como **Jenkins**, **Git** e **Shell Scripts**, trabalhando com deploy em servidores da digitalocean e serviços e e-mail da aws.
+Eu trabalhei como desenvolvedor fullstack na Doting, porém com foco em desenvolvimento back end com **PHP**. Durante meu tempo de trabalho, eu aprendi muito sobre arquitetura de software e boas práticas de programação, encontrando ali os ideais de orientação a objetos.
 
 <a name="onde-passei-innsite"></a>
 ### Innsite agência web
@@ -117,4 +109,4 @@ Participo hoje da organização do grupo [Castelo Labs](https://castelolabs.gith
 
 Ministrei um minicurso, utilizando stack jQuery, Bootstrap, NodeJS e Socket.io, onde o objetivo foi a construção de um webchat:
 
-https://bitbucket.org/angelozo/minicurso-nodejs-chat
+[https://bitbucket.org/angelozo/minicurso-nodejs-chat](https://bitbucket.org/angelozo/minicurso-nodejs-chat)
