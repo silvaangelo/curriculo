@@ -1,10 +1,7 @@
 # Sumário
 
 - [Dados Pessoais](#dados-pessoais)
-- [Quem sou eu?](#quem-sou-eu)
 - [Skills](#skills)
-    - [Back end](#skills-back-end)
-    - [Front end](#skills-front-end)
 - [Onde estudei](#onde-estudei)
 - [Por onde passei](#onde-passei)
     - [Eduzz](#onde-passei-eduzz)
@@ -27,33 +24,14 @@ angelorodriigo.rs@gmail.com
 
 (15) 99820 - 3101
 
-<a name="quem-sou-eu"></a>
-## Quem sou eu?
-
-Eu trabalho como desenvolvedor a 2 anos, sempre trabalhei com desenvolvimento focado na área web, sendo front end, passei por algumas empresas porém encontrei mais conforto estudando arquitetura de software, padrões de projeto e desenvolvimento back end, onde hoje invisto maior parte dos meus esforços.
-
 <a name="skills"></a>
 ## Skills
 
-<a name="skills-back-end"></a>
-### Back end
+Trabalhei desenvolvendo com PHP e utilizando frameworks para desenvolvimento como Laravel, Zend e plataformas de e-commerce. Tenho experiência com desenvolvimento de API'S, testes unitários e microserviços.
 
-Trabalhei com PHP pela primeira vez a 2 anos, no meu primeiro estágio de desenvolvimento web, onde trabalhei cuidando de um cms próprio, **WordPress** e **OpenCart** solucionando pequenos bugs e imprevistos.
-
-Conforme trilhava meu caminho, encontrei alguns desafios como orientação a objetos, arquitetura e design de software, sempre procurando aprender mais e mais sobre algoritmos, boas práticas de programação e outras questões.
-
-Trabalhei durante esse tempo com frameworks como **Zend** (Magento), **Laravel**, **Slim Framework** e **Plataforma Magento**.
-
-Também trabalhei em equipe focada em microserviços, lidando com tecnologias como rabbitMQ, redis e desenvolvimento de RESTFUL API'S.
-
-Também tenho conhecimento em nodeJS, desenvolvendo pequenas aplicações e serviços. Durante a faculdade, estudei desenvolvimento de aplicações utilizando Java e, por interesse em buscar mais conhecimento em linguagens clássicas, aprofundei meus estudos em Java, Java para Android e Kotlin.
-
-<a name="skills-front-end"></a>
-### Front end
+Tenho conhecimento em nodeJS, desenvolvendo pequenas aplicações e serviços. Durante a faculdade, estudei desenvolvimento de aplicações utilizando Java e, por interesse em buscar mais conhecimento em linguagens clássicas, aprofundei meus estudos em Java, Java para Android e Kotlin.
 
 Durante meu tempo como desenvolvedor, também fiz alguns pequenos trabalhos como front end.
-
-Trabalhei com frameworks grid como **Bootstrap** e frameworks javascript como **jQuery** e **VueJs** e sempre procurei aumentar a produtividade e a facilidade com css através de pré-processadores como **Sass** e automatizadores de tarefas como **(Gulp)**.
 
 <a name="onde-estudei"></a>
 ## Onde estudei
