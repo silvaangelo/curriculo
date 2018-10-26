@@ -1,7 +1,6 @@
 # Sumário
 
 - [Dados Pessoais](#dados-pessoais)
-- [Skills](#skills)
 - [Onde estudei](#onde-estudei)
 - [Por onde passei](#onde-passei)
     - [Eduzz](#onde-passei-eduzz)
@@ -12,26 +11,16 @@
     - [Trabalhos](#oque-fiz-trabalhos)
         - [Minicurso nodeJS](#oque-fiz-trabalhos-chat-node)
 
-
 ##### Recomendo a visualização deste documento no github, ele foi escrito em markdown e é melhor visualizado diretamente no repositório: [https://github.com/silvaangelo/curriculo](https://github.com/silvaangelo/curriculo)
 
 <a name="dados-pessoais"></a>
 ## Angelo Rodrigo Ribeiro da Silva
 
-20 Anos
+21 Anos
 
 angelorodriigo.rs@gmail.com
 
 (15) 99820 - 3101
-
-<a name="skills"></a>
-## Skills
-
-Trabalhei desenvolvendo com PHP e utilizando frameworks para desenvolvimento como Laravel, Zend e plataformas de e-commerce. Tenho experiência com desenvolvimento de API'S, testes unitários e microserviços.
-
-Tenho conhecimento em nodeJS, desenvolvendo pequenas aplicações e serviços. Durante a faculdade, estudei desenvolvimento de aplicações utilizando Java e, por interesse em buscar mais conhecimento em linguagens clássicas, aprofundei meus estudos em Java, Java para Android e Kotlin.
-
-Durante meu tempo como desenvolvedor, também fiz alguns pequenos trabalhos como front end.
 
 <a name="onde-estudei"></a>
 ## Onde estudei
@@ -48,6 +37,7 @@ Estou cursando o 6º e último semestre de análise e desenvolvimento de sistema
 Março de 2018 - Atual
 
 Trabalho na eduzz, junto a equipe de microserviços, tendo em vista desenvolver soluções que darão suporte a outras equipes.
+Trabalho com soluções utilizando sistema de mensageria via protocolo AMQP com RABBITMQ, PHP, NodeJS, conteinerização utilizando docker, banco de dados SQLServer e banco de dados não relacional MongoDB.
 
 <a name="onde-passei-doting"></a>
 ### Agência Doting
@@ -55,7 +45,7 @@ Trabalho na eduzz, junto a equipe de microserviços, tendo em vista desenvolver 
 
 Julho de 2017 - Janeiro de 2018
 
-Eu trabalhei como desenvolvedor fullstack na Doting, porém com foco em desenvolvimento back end com **PHP**. Durante meu tempo de trabalho, eu aprendi muito sobre arquitetura de software e boas práticas de programação, encontrando ali os ideais de orientação a objetos.
+Eu trabalhei como desenvolvedor fullstack na Doting, porém com foco em desenvolvimento back end com **PHP**, utilizando Magento com Zend Framework, Slim PHP e Laravel.
 
 <a name="onde-passei-innsite"></a>
 ### Innsite agência web
