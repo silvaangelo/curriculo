@@ -1,43 +1,28 @@
-# Sumário
-
-- [Dados Pessoais](#dados-pessoais)
-- [Onde estudei](#onde-estudei)
-- [Por onde passei](#onde-passei)
-    - [Eduzz](#onde-passei-eduzz)
-    - [Doting](#onde-passei-doting)
-    - [Innsite](#onde-passei-innsite)
-- [O que eu fiz?](#oque-fiz)
-    - [A comunidade](#oque-fiz-comunidade)
-    - [Trabalhos](#oque-fiz-trabalhos)
-        - [Minicurso nodeJS](#oque-fiz-trabalhos-chat-node)
-
-##### Recomendo a visualização deste documento no github, ele foi escrito em markdown e é melhor visualizado diretamente no repositório: [https://github.com/silvaangelo/curriculo](https://github.com/silvaangelo/curriculo)
-
 <a name="dados-pessoais"></a>
-## Angelo Rodrigo Ribeiro da Silva
+# Angelo Rodrigo Ribeiro da Silva
 
-21 Anos
+22 Anos
 
-angelorodriigo.rs@gmail.com
+angelo.lambda@gmail.com
 
-(15) 99820 - 3101
+(15) 981735882
 
 <a name="onde-estudei"></a>
 ## Onde estudei
 
-Estou cursando o 6º e último semestre de análise e desenvolvimento de sistemas, no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, no câmpus de Boituva.
+Cursei análise e desenvolvimento de sistemas, no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, no câmpus de Boituva.
 
 <a name="onde-passei"></a>
 ## Por onde passei
 
 <a name="onde-passei-eduzz"></a>
 ### Eduzz
-##### Desenvolvedor Back End Júnior
+##### Desenvolvedor Pleno
 
 Março de 2018 - Atual
 
-Trabalho na eduzz, junto a equipe de microserviços, tendo em vista desenvolver soluções que darão suporte a outras equipes.
-Trabalho com soluções utilizando sistema de mensageria via protocolo AMQP com RABBITMQ, PHP, NodeJS, conteinerização utilizando docker, banco de dados SQLServer e banco de dados não relacional MongoDB.
+Trabalho na Eduzz (lê-se edus) há 1 ano e 8 meses, já trabalhei na equipe de microserviços pois a empresa ainda dissemina a cultura de microserviços entre as pessoas, e hoje trabalho no Órbita, onde o cliente gerencia seus dados e que faz o processamento de entregas para clientes finais, o Coração da empresa!
+Nesse tempo passei por diversos projetos e cuidei de alguns microserviços utilizando tecnologias como PHP, NodeJS, Bash, Elastic, AWS, RabbitMQ, etc, buscando sempre utilizar as melhores práticas de desenvolvimento e trabalhar o mais próximo possível da equipe de produto.
 
 <a name="onde-passei-doting"></a>
 ### Agência Doting
@@ -45,7 +30,7 @@ Trabalho com soluções utilizando sistema de mensageria via protocolo AMQP com 
 
 Julho de 2017 - Janeiro de 2018
 
-Eu trabalhei como desenvolvedor fullstack na Doting, porém com foco em desenvolvimento back end com **PHP**, utilizando Magento com Zend Framework, Slim PHP e Laravel.
+Trabalhei como desenvolvedor fullstack, focado principalmente no desenvolvimento back end com PHP e NodeJS, aprendi muito software arquitetura de software, boas práticas de desenvolvimento e gerenciamento de projeto com git, integração contínua, automatização de testes entre outras metodologias.
 
 <a name="onde-passei-innsite"></a>
 ### Innsite agência web
@@ -53,7 +38,7 @@ Eu trabalhei como desenvolvedor fullstack na Doting, porém com foco em desenvol
 
 Agosto de 2016 - Maio de 2017
 
-Como estagiário, lidei com desenvolvimento web fullstack, trabalhando no front end com **Bootstrap**, **jQuery** e desenvolvimento back end com plataformas como **WordPress**, **OpenCart** e próprio cms, também desenvolvi projetos de curta duração atuando como back end PHP.
+No estágio, trabalhei desenvolvendo soluções para web como e-commerce, projetos institucionais, portais e sistemas de gerenciamento para empresas, auxiliando desde a arquitetura e decisões estratégicas em projetos de curta duração até o desenvolvimento da aplicação.
 
 <a name="oque-fiz"></a>
 ## O que eu fiz
@@ -63,12 +48,12 @@ Como estagiário, lidei com desenvolvimento web fullstack, trabalhando no front 
 
 Durante meu tempo como desenvolvedor, procurei sempre aprender mais e ajudar pessoas através do código, participei de eventos no interior de São Paulo e organizei pequenos grupos de estudos dentro da faculdade.
 
-Participo hoje da organização do grupo [Castelo Labs](https://castelolabs.github.io/), já conseguimos através da colaboração da comunidade organizar 2 eventos de programação no IFSP.
+Participo hoje da organização do grupo [Castelo Labs](https://castelolabs.github.io/), já conseguimos através da colaboração da comunidade organizar 2 eventos de programação no IFSP Boituva.
 
-<a name="oque-fiz-trabalhos"></a>
-### Trabalhos
+<a name="oque-fiz-apresentacoes"></a>
+### Apresentações
 
-<a name="oque-fiz-trabalhos-chat-node"></a>
+<a name="oque-fiz-apresentacoes-chat-node"></a>
 #### Curso: Desenvolvendo uma aplicação de chat com nodeJS
 
 **27/10/2017**
