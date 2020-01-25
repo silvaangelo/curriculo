@@ -5,7 +5,7 @@
 
 angelo.lambda@gmail.com
 
-(15) 981735882
+(15) 98173 - 5882
 
 <a name="onde-estudei"></a>
 ## Onde estudei
@@ -21,8 +21,7 @@ Cursei análise e desenvolvimento de sistemas, no Instituto Federal de Educaçã
 
 Março de 2018 - Atual
 
-Trabalho na Eduzz (lê-se edus) há 1 ano e 8 meses, já trabalhei na equipe de microserviços pois a empresa ainda dissemina a cultura de microserviços entre as pessoas, e hoje trabalho no Órbita, onde o cliente gerencia seus dados e que faz o processamento de entregas para clientes finais, o Coração da empresa!
-Nesse tempo passei por diversos projetos e cuidei de alguns microserviços utilizando tecnologias como PHP, NodeJS, Bash, Elastic, AWS, RabbitMQ, etc, buscando sempre utilizar as melhores práticas de desenvolvimento e trabalhar o mais próximo possível da equipe de produto.
+Trabalho na Eduzz há 1 ano e 11 meses, já trabalhei na equipe de microserviços e hoje trabalho no Órbita, onde o cliente gerencia seus dados e que faz o processamento de entregas para clientes finais, utilizamos tecnologias como PHP (Laravel, Symfony, etc), Javascript (Express, etc) e Typescript, AWS como Cloud, Docker, Jenkins para gerenciamento de CI & CD, RabbitMQ para gerenciamento de filas, elastic search para métricas entre algumas outras tecnologias.
 
 <a name="onde-passei-doting"></a>
 ### Agência Doting
