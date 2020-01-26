@@ -1,3 +1,7 @@
+#### Versões
+
+- [en_US](README_en_US.md)
+
 <a name="dados-pessoais"></a>
 # Angelo Rodrigo Ribeiro da Silva
 
@@ -6,6 +10,10 @@
 angelo.lambda@gmail.com
 
 (15) 98173 - 5882
+
+Olá, meu nome é Angelo, trabalho com desenvolvimento de software há aproximadamente 4 anos e atualmente estou morando em Sorocaba, SP. No momento estou trabalhando na Eduzz, uma plataforma gigante voltada ao mercado de marketing digital.
+
+Trabalhei em maior parte da minha carreira no lado Back End utilizando linguagens como Javascript, PHP, Python e Java, também atuei no Front End em par com outros desenvolvedores front end e projetos próprios utilizando React e Vue e tenho experiência em Deploy e gerenciamento de infraestrutura/cloud com ferramentas como AWS, CI & CD, Docker, etc. 
 
 <a name="onde-estudei"></a>
 ## Onde estudei
@@ -17,7 +25,7 @@ Cursei análise e desenvolvimento de sistemas, no Instituto Federal de Educaçã
 
 <a name="onde-passei-eduzz"></a>
 ### Eduzz
-##### Desenvolvedor Pleno
+##### Desenvolvedor de Software
 
 Março de 2018 - Atual
 
