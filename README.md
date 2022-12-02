@@ -9,7 +9,7 @@
 
 angelo.lambda@gmail.com
 
-Olá, meu nome é Angelo, trabalho com desenvolvimento de software há aproximadamente 4 anos e atualmente estou morando em Sorocaba, SP. No momento estou trabalhando na Eduzz, uma plataforma gigante voltada ao mercado de marketing digital.
+Olá, meu nome é Angelo, trabalho com desenvolvimento de software há aproximadamente 5 anos e atualmente estou morando em Sorocaba, SP. No momento estou trabalhando na Eduzz, uma plataforma gigante voltada ao mercado de marketing digital.
 
 Trabalhei em maior parte da minha carreira no lado Back End utilizando linguagens como Javascript, PHP, Python e Java, também atuei no Front End em par com outros desenvolvedores front end e projetos próprios utilizando React e Vue e tenho experiência em Deploy e gerenciamento de infraestrutura/cloud com ferramentas como AWS, CI & CD, Docker, etc. 
 
